@@ -152,18 +152,26 @@ div.info{
     background-color: MediumAquamarine;
     margin: auto;
     font-family: Verdana;
-    font-size: 12px;
+    font-size: 16px;
 }
 .footertitle {
   display: inline-block;
     padding-right: 25px;
     border-right: 2px solid white;
     font-family: Georgia;
-    font-size: 16px;
+    font-size: 24px;
     font-weight: bold;
     color: white;
+}
+footer a:link {
+  color: black;
+}
+
+footer a:visited {
+  color: black;
 }
 .copyright {
   font-family: verdana;
   font-size: 12px;
+  color: white;
 }
